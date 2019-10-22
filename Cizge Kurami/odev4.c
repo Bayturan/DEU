@@ -1,3 +1,4 @@
+//Verilen cizgenin duzenli olup olmadigini kontrol eden c kodu
 #include <stdio.h>
 #define n 3
 
